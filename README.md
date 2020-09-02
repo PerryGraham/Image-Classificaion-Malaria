@@ -19,4 +19,4 @@ The final accuracy of this model was around 95%. After investigating the incorre
 
 # Prediction Confusion Matrix 
 
-![](https://i.imgur.com/jnj8ehd.png)
+![](https://i.imgur.com/EpMG7tM.png)
